@@ -28,3 +28,4 @@
 
 **Branching Strategy:**
 We use a **Feature Branch** workflow. Example: `feature/user-login`. All code must be merged via **Pull Request**. No direct pushes to `main`.
+
